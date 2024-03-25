@@ -43,5 +43,11 @@
       "Cable_Tricep_Kickbacks"
     ],
     "id": "Full_Body_3"
+  },
+  {
+    "name": "Rest Day",
+    "author": "Grin&Gain",
+    "exercises": [],
+    "id": "Rest_Day"
   }
 ]

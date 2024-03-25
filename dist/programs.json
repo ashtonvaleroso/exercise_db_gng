@@ -1,0 +1,16 @@
+[
+  {
+    "name": "3 Day Full Body Program",
+    "author": "Grin&Gain",
+    "mode": "weekly",
+    "routines": [
+      "Full_Body_1",
+      "Rest_Day",
+      "Full_Body_2",
+      "Rest_Day",
+      "Full_Body_3",
+      "Rest_Day",
+      "Rest_Day"
+    ]
+  }
+]

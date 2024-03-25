@@ -22613,5 +22613,95 @@
       "Zottman_Preacher_Curl/1.jpg"
     ],
     "id": "Zottman_Preacher_Curl"
-  }
+  },
+  {
+    "name": "Standing Cable Lateral Raise",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "trapezius",
+      "forearms"
+    ],
+    "instructions": [
+      "Attach a single-handle to the low pulley cable machine and position it to your left side.",
+      "Stand with your side facing the cable machine and grasp the handle with your right hand, palm facing down, and your left hand resting on your hip.",
+      "Keep a slight bend in your elbow and maintain a neutral spine.",
+      "Exhale as you lift the handle directly to the side, keeping your arm straight but not locked.",
+      "Continue raising the handle until your arm is parallel to the ground or slightly below, ensuring your shoulder is doing the work.",
+      "Pause briefly at the top of the movement, then inhale as you lower the handle back to the starting position in a controlled manner.",
+      "Repeat for the desired number of repetitions, then switch sides and perform the exercise with your left arm."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Cable_Lateral_Raise"
+  },
+  {
+    "name": "Dumbbell Strict Curl",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "dumbbell",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Stand upright with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing forward and arms fully extended down by your sides.",
+      "Keep your elbows close to your body throughout the exercise.",
+      "While exhaling, slowly curl the dumbbells up towards your shoulders, keeping your upper arms stationary.",
+      "Continue curling the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.",
+      "Pause briefly at the top of the movement, then inhale as you lower the dumbbells back down to the starting position in a controlled manner.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Dumbbell_Strict_Curl"
+  },
+  {
+    "name": "Single Leg Dumbbell Calf Raise",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "dumbbell",
+    "primaryMuscles": ["calves"],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Stand on the edge of a step or raised platform with the balls of your feet on the edge and your heels hanging off.",
+      "Hold a dumbbell in one hand for balance, or hold a dumbbell in each hand by your sides for added resistance.",
+      "Raise the non-working foot off the ground, keeping your balance on the working leg.",
+      "While exhaling, push through the ball of your foot to raise your heel as high as possible.",
+      "Pause briefly at the top of the movement, then inhale as you lower your heel back down below the level of the step, feeling a stretch in your calf muscle.",
+      "Repeat for the desired number of repetitions on one leg before switching to the other leg."
+    ],
+    "category": "strength",
+    "images": ["Single_Leg_Dumbbell_Calf_Raise/0.jpg", "Single_Leg_Dumbbell_Calf_Raise/1.jpg"],
+    "id": "Single_Leg_Dumbbell_Calf_Raise"
+  },
+  {
+    "name": "Cable Tricep Kickbacks",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "cable",
+    "primaryMuscles": ["triceps"],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Attach a single-handle to the low pulley cable machine and adjust the weight to an appropriate level.",
+      "Stand facing the cable machine with your feet shoulder-width apart and knees slightly bent.",
+      "Grasp the handle with one hand and step back until your arm is fully extended, keeping your elbow close to your body and your upper arm parallel to the floor.",
+      "Exhale as you extend your forearm back until your arm is straight, contracting your triceps.",
+      "Pause briefly at the fully contracted position, then inhale as you return to the starting position in a controlled manner, keeping tension on your triceps throughout the movement.",
+      "Repeat for the desired number of repetitions on one arm before switching to the other arm."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Cable_Tricep_Kickbacks"
+  }  
 ]

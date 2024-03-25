@@ -1,6 +1,6 @@
 [
   {
-    "name": "Full Body 1 ",
+    "name": "Full Body 1",
     "author": "Grin&Gain",
     "exercises": [
       "Barbell_Squat",
@@ -13,5 +13,35 @@
       "Dumbbell_Tricep_Extension_-Pronated_Grip"
     ],
     "id": "Full_Body_1"
+  },
+  {
+    "name": "Full Body 2",
+    "author": "Grin&Gain",
+    "exercises": [
+      "Split_Squat_with_Dumbbells",
+      "Seated_Leg_Curl",
+      "Calf_Press",
+      "Bench_Press_-_Powerlifting",
+      "Seated_Cable_Rows",
+      "Standing_Cable_Lateral_Raise",
+      "Dumbbell_Strict_Curl",
+      "Tricep_Pushdown_-_Rope_Attachment"
+    ],
+    "id": "Full_Body_2"
+  },
+  {
+    "name": "Full Body 3",
+    "author": "Grin&Gain",
+    "exercises": [
+      "Leg_Extensions",
+      "Barbell_Deadlift",
+      "Single_Leg_Dumbbell_Calf_raise",
+      "Dips_-_Chest_Version",
+      "Bent_Over_Barbell_Row",
+      "One-Arm_Incline_Lateral_Raise",
+      "Zottman_Curl",
+      "Cable_Tricep_Kickbacks"
+    ],
+    "id": "Full_Body_3"
   }
 ]

@@ -22670,7 +22670,9 @@
     "level": "intermediate",
     "mechanic": "isolation",
     "equipment": "dumbbell",
-    "primaryMuscles": ["calves"],
+    "primaryMuscles": [
+      "calves"
+    ],
     "secondaryMuscles": [],
     "instructions": [
       "Stand on the edge of a step or raised platform with the balls of your feet on the edge and your heels hanging off.",
@@ -22681,7 +22683,10 @@
       "Repeat for the desired number of repetitions on one leg before switching to the other leg."
     ],
     "category": "strength",
-    "images": ["Single_Leg_Dumbbell_Calf_Raise/0.jpg", "Single_Leg_Dumbbell_Calf_Raise/1.jpg"],
+    "images": [
+      "Single_Leg_Dumbbell_Calf_Raise/0.jpg",
+      "Single_Leg_Dumbbell_Calf_Raise/1.jpg"
+    ],
     "id": "Single_Leg_Dumbbell_Calf_Raise"
   },
   {
@@ -22690,7 +22695,9 @@
     "level": "intermediate",
     "mechanic": "isolation",
     "equipment": "cable",
-    "primaryMuscles": ["triceps"],
+    "primaryMuscles": [
+      "triceps"
+    ],
     "secondaryMuscles": [],
     "instructions": [
       "Attach a single-handle to the low pulley cable machine and adjust the weight to an appropriate level.",
@@ -22703,5 +22710,91 @@
     "category": "strength",
     "images": [],
     "id": "Cable_Tricep_Kickbacks"
-  }  
+  },
+  {
+    "id": "Rear_Delt_Fly",
+    "name": "Rear Delt Fly",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "traps",
+      "middle back"
+    ],
+    "instructions": [
+      "Adjust the seat height of the machine so that the handles are at shoulder height.",
+      "Sit on the machine facing the pads, with your chest against the pad and feet flat on the floor.",
+      "Grasp the handles with your palms facing inwards and arms slightly bent.",
+      "Exhale as you pull the handles outwards and backwards, squeezing your shoulder blades together.",
+      "Pause briefly at the peak contraction, then inhale as you return to the starting position in a controlled manner.",
+      "Keep a slight bend in your elbows throughout the movement and avoid using momentum.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "category": "strength",
+    "images": []
+  },
+  {
+    "id": "Hanging_Leg_Spirals",
+    "name": "Hanging Leg Spirals",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": ["abdominals"],
+    "secondaryMuscles": ["hip flexors"],
+    "instructions": [
+      "Hang from a pull-up bar with your arms fully extended and your legs straight.",
+      "Engage your core and lift your legs until they are parallel to the floor.",
+      "Move your legs in a circular motion, drawing a spiral pattern in the air.",
+      "Keep your movements controlled and avoid swinging your body.",
+      "Complete the spiral in one direction, then reverse the motion.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "category": "strength",
+    "images": []
+  },
+  {
+    "id": "Cable_Wrap_Around_Row",
+    "name": "Cable Wrap Around Row",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "cable",
+    "primaryMuscles": ["middle back"],
+    "secondaryMuscles": ["lats", "shoulders", "biceps"],
+    "instructions": [
+      "Set the pulleys on a cable machine to a high position and attach handles to each side.",
+      "Stand facing the machine with your feet shoulder-width apart and grasp a handle in each hand, arms extended across your chest and crossed.",
+      "Initiate the movement by pulling both handles across your chest towards the opposite sides.",
+      "Squeeze your shoulder blades together at the peak of the movement.",
+      "Slowly return to the starting position with control.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "category": "strength",
+    "images": []
+  },
+  {
+    "id": "Nordic_Curls",
+    "name": "Nordic Curls",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": ["hamstrings"],
+    "secondaryMuscles": ["glutes", "lower back"],
+    "instructions": [
+      "Start by kneeling on a soft surface with your feet anchored under a sturdy object or with a partner holding your ankles.",
+      "Keeping your back straight and core engaged, slowly lower your torso towards the ground, leaning forward from your knees.",
+      "Lower yourself as far as you can while maintaining control, using your hamstrings to resist the descent.",
+      "Once you reach the lowest point, push yourself back up to the starting position using your hamstrings.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "category": "strength",
+    "images": []
+  }
+    
 ]

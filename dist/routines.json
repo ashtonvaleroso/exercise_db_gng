@@ -45,93 +45,6 @@
     "id": "Full_Body_3"
   },
   {
-    "name": "Pull Day 1",
-    "author": "Grin&Gain",
-    "exercises": [
-      "Bent_Over_Barbell_Row",
-      "Rear_Delt_Fly",
-      "Dumbbell_Alternate_Bicep_Curl",
-      "Incline_Dumbbell_Curl",
-      "Kneeling_Single-Arm_High_Pulley_Row",
-      "Face_Pull",
-      "Standing_Cable_Wood_Chop",
-      "Hanging_Leg_Spirals"
-    ],
-    "id": "Pull_Day_1"
-  },
-  {
-    "name": "Push Day 1",
-    "author": "Grin&Gain",
-    "exercises": [
-      "Bench_Press_-_Powerlifting",
-      "Dumbbell_One-Arm_Shoulder_Press",
-      "Lying_Dumbbell_Tricep_Extension",
-      "Side_Lateral_Raise",
-      "Single-Arm_Cable_Crossover",
-      "Cable_Tricep_Kickbacks",
-      "Cable_Crunch",
-      "Hanging_Leg_Raise"
-    ],
-    "id": "Push_Day_1"
-  },
-  {
-    "name": "Legs Day 1",
-    "author": "Grin&Gain",
-    "exercises": [
-      "Barbell_Squat",
-      "Power_Clean",
-      "Split_Squat_with_Dumbbells",
-      "Seated_Leg_Curl",
-      "Leg_Extensions",
-      "Seated_Calf_Raise"
-    ],
-    "id": "Legs_Day_1"
-  },
-  {
-    "name": "Push Day 2",
-    "author": "Grin&Gain",
-    "exercises": [
-      "Barbell_Shoulder_Press",
-      "Dips_-_Chest_Version",
-      "Lying_Dumbbell_Tricep_Extension",
-      "Barbell_Incline_Bench_Press_-_Medium_Grip",
-      "Standing_Cable_Lateral_Raise",
-      "Triceps_Pushdown_-_Rope_Attachment",
-      "Cable_Crunch",
-      "Hanging_Leg_Raise"
-    ],
-    "id": "Push_Day_2"
-  },
-  {
-    "name": "Pull Day 2",
-    "author": "Grin&Gain",
-    "exercises": [
-      "Weighted_Pull_Ups",
-      "Dumbbell_Shrug",
-      "Dumbbell_Strict_Curl",
-      "Reverse_Barbell_Curl",
-      "Seated_Cable_Rows",
-      "Cable_Wrap_Around_Row",
-      "Cable_Rear_Delt_Fly",
-      "Standing_Cable_Wood_Chop",
-      "Hanging_Leg_Spirals"
-    ],
-    "id": "Pull_Day_2"
-  },
-  {
-    "name": "Legs Day 2",
-    "author": "Grin&Gain",
-    "exercises": [
-      "Barbell_Deadlift",
-      "Split_Squat_with_Dumbbells",
-      "Seated_Leg_Curl",
-      "Leg_Extensions",
-      "Nordic_Curls",
-      "Seated_Calf_Raise"
-    ],
-    "id": "Legs_Day_2"
-  },
-  {
     "name": "Upper 1",
     "author": "Grin&Gain",
     "exercises": [
@@ -190,7 +103,94 @@
       "Standing_Cable_Wood_Chop"
     ],
     "id": "Lower_2"
-  },      
+  },    
+  {
+    "name": "Pull Day 1",
+    "author": "Grin&Gain",
+    "exercises": [
+      "Bent_Over_Barbell_Row",
+      "Rear_Delt_Fly",
+      "Dumbbell_Alternate_Bicep_Curl",
+      "Incline_Dumbbell_Curl",
+      "Kneeling_Single-Arm_High_Pulley_Row",
+      "Face_Pull",
+      "Standing_Cable_Wood_Chop",
+      "Hanging_Leg_Spirals"
+    ],
+    "id": "Pull_Day_1"
+  },
+  {
+    "name": "Push Day 1",
+    "author": "Grin&Gain",
+    "exercises": [
+      "Bench_Press_-_Powerlifting",
+      "Dumbbell_One-Arm_Shoulder_Press",
+      "Lying_Dumbbell_Tricep_Extension",
+      "Side_Lateral_Raise",
+      "Single-Arm_Cable_Crossover",
+      "Cable_Tricep_Kickbacks",
+      "Cable_Crunch",
+      "Hanging_Leg_Raise"
+    ],
+    "id": "Push_Day_1"
+  },
+  {
+    "name": "Legs Day 1",
+    "author": "Grin&Gain",
+    "exercises": [
+      "Barbell_Squat",
+      "Power_Clean",
+      "Split_Squat_with_Dumbbells",
+      "Seated_Leg_Curl",
+      "Leg_Extensions",
+      "Seated_Calf_Raise"
+    ],
+    "id": "Legs_Day_1"
+  },
+  {
+    "name": "Pull Day 2",
+    "author": "Grin&Gain",
+    "exercises": [
+      "Weighted_Pull_Ups",
+      "Dumbbell_Shrug",
+      "Dumbbell_Strict_Curl",
+      "Reverse_Barbell_Curl",
+      "Seated_Cable_Rows",
+      "Cable_Wrap_Around_Row",
+      "Cable_Rear_Delt_Fly",
+      "Standing_Cable_Wood_Chop",
+      "Hanging_Leg_Spirals"
+    ],
+    "id": "Pull_Day_2"
+  },
+  {
+    "name": "Push Day 2",
+    "author": "Grin&Gain",
+    "exercises": [
+      "Barbell_Shoulder_Press",
+      "Dips_-_Chest_Version",
+      "Lying_Dumbbell_Tricep_Extension",
+      "Barbell_Incline_Bench_Press_-_Medium_Grip",
+      "Standing_Cable_Lateral_Raise",
+      "Triceps_Pushdown_-_Rope_Attachment",
+      "Cable_Crunch",
+      "Hanging_Leg_Raise"
+    ],
+    "id": "Push_Day_2"
+  },
+  {
+    "name": "Legs Day 2",
+    "author": "Grin&Gain",
+    "exercises": [
+      "Barbell_Deadlift",
+      "Split_Squat_with_Dumbbells",
+      "Seated_Leg_Curl",
+      "Leg_Extensions",
+      "Nordic_Curls",
+      "Seated_Calf_Raise"
+    ],
+    "id": "Legs_Day_2"
+  },  
   {
     "name": "Rest Day",
     "author": "Grin&Gain",

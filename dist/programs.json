@@ -14,20 +14,6 @@
     ]
   },
   {
-    "name": "Advanced Push/Pull/Legs Program",
-    "author": "Grin&Gain",
-    "mode": "weekly",
-    "routines": [
-      "Push_Day_1",
-      "Pull_Day_1",
-      "Legs_Day_1",
-      "Push_Day_2",
-      "Pull_Day_2",
-      "Legs_Day_2",
-      "Rest_Day"
-    ]
-  },
-  {
     "name": "Intermediate Upper/Lower Program",
     "author": "Grin&Gain",
     "mode": "weekly",
@@ -38,6 +24,20 @@
       "Upper_2",
       "Lower_2",
       "Rest_Day",
+      "Rest_Day"
+    ]
+  },
+  {
+    "name": "Advanced Push/Pull/Legs Program",
+    "author": "Grin&Gain",
+    "mode": "weekly",
+    "routines": [
+      "Push_Day_1",
+      "Pull_Day_1",
+      "Legs_Day_1",
+      "Push_Day_2",
+      "Pull_Day_2",
+      "Legs_Day_2",
       "Rest_Day"
     ]
   }

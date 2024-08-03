@@ -22683,10 +22683,7 @@
       "Repeat for the desired number of repetitions on one leg before switching to the other leg."
     ],
     "category": "strength",
-    "images": [
-      "Single_Leg_Dumbbell_Calf_Raise/0.jpg",
-      "Single_Leg_Dumbbell_Calf_Raise/1.jpg"
-    ],
+    "images": [],
     "id": "Single_Leg_Dumbbell_Calf_Raise"
   },
   {
@@ -22744,8 +22741,12 @@
     "level": "intermediate",
     "mechanic": "isolation",
     "equipment": "body only",
-    "primaryMuscles": ["abdominals"],
-    "secondaryMuscles": ["hip flexors"],
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "hip flexors"
+    ],
     "instructions": [
       "Hang from a pull-up bar with your arms fully extended and your legs straight.",
       "Engage your core and lift your legs until they are parallel to the floor.",
@@ -22764,8 +22765,14 @@
     "level": "intermediate",
     "mechanic": "isolation",
     "equipment": "cable",
-    "primaryMuscles": ["middle back"],
-    "secondaryMuscles": ["lats", "shoulders", "biceps"],
+    "primaryMuscles": [
+      "middle back"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "shoulders",
+      "biceps"
+    ],
     "instructions": [
       "Set the pulleys on a cable machine to a high position and attach handles to each side.",
       "Stand facing the machine with your feet shoulder-width apart and grasp a handle in each hand, arms extended across your chest and crossed.",
@@ -22784,8 +22791,13 @@
     "level": "intermediate",
     "mechanic": "compound",
     "equipment": "body only",
-    "primaryMuscles": ["hamstrings"],
-    "secondaryMuscles": ["glutes", "lower back"],
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "lower back"
+    ],
     "instructions": [
       "Start by kneeling on a soft surface with your feet anchored under a sturdy object or with a partner holding your ankles.",
       "Keeping your back straight and core engaged, slowly lower your torso towards the ground, leaning forward from your knees.",
@@ -22796,5 +22808,4 @@
     "category": "strength",
     "images": []
   }
-    
 ]

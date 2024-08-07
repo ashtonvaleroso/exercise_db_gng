@@ -6,14 +6,15 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
       "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",
       "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position.",
       "Flex your hips and spine to raise your torso toward your knees.",
-      "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down.",
+      "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only Â¾ of the way down.",
       "Repeat for the recommended amount of repetitions."
     ],
     "category": "strength",
@@ -27,7 +28,7 @@
     "name": "90/90 Hamstring",
     "force": "push",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "hamstrings"
@@ -55,9 +56,11 @@
     "mechanic": "isolation",
     "equipment": "machine",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Select a light resistance and sit down on the ab machine placing your feet under the pads provided and grabbing the top handles. Your arms should be bent at a 90 degree angle as you rest the triceps on the pads provided. This will be your starting position.",
       "At the same time, begin to lift the legs up as you crunch your upper torso. Breathe out as you perform this movement. Tip: Be sure to use a slow and controlled motion. Concentrate on using your abs to move the weight while relaxing your legs and feet.",
@@ -78,10 +81,13 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Hold the Ab Roller with both hands and kneel on the floor.",
@@ -122,8 +128,8 @@
     "name": "Adductor/Groin",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "adductors"
     ],
@@ -148,12 +154,16 @@
     "mechanic": "isolation",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "obliques"
     ],
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Clean and press a kettlebell overhead with one arm.",
@@ -175,9 +185,12 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put your hands beside your head. Be careful however to not strain with the neck as you perform it. Now lift your shoulders into the crunch position.",
       "Bring knees up to where they are perpendicular to the floor, with your lower legs parallel to the floor. This will be your starting position.",
@@ -197,7 +210,7 @@
     "name": "All Fours Quad Stretch",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "quadriceps"
@@ -251,7 +264,7 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -299,7 +312,7 @@
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -330,7 +343,7 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -355,7 +368,8 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -382,8 +396,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -435,7 +451,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -459,7 +475,7 @@
     "mechanic": "isolation",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -484,10 +500,12 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "biceps",
       "chest",
       "lats",
@@ -510,7 +528,7 @@
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "calves"
     ],
@@ -531,8 +549,8 @@
     "name": "Ankle On The Knee",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "glutes"
     ],
@@ -553,7 +571,7 @@
     "name": "Anterior Tibialis-SMR",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "calves"
@@ -577,10 +595,10 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "middle back",
+      "upper back",
       "traps",
       "triceps"
     ],
@@ -602,9 +620,11 @@
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
       "traps"
@@ -628,7 +648,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -657,7 +677,9 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Lay down on a flat bench holding a dumbbell in each hand with the palms of the hands facing towards the ceiling. Tip: Your arms should be parallel to the floor and next to your thighs. To avoid injury, make sure that you keep your elbows slightly bent. This will be your starting position.",
@@ -710,14 +732,16 @@
       "lower back"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "adductors",
       "biceps",
       "calves",
       "forearms",
       "glutes",
       "hamstrings",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -747,7 +771,7 @@
       "forearms",
       "glutes",
       "hamstrings",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -771,10 +795,10 @@
     "mechanic": "compound",
     "equipment": "bands",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
-      "middle back",
+      "upper back",
       "triceps"
     ],
     "instructions": [
@@ -826,7 +850,7 @@
     "mechanic": "compound",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -844,7 +868,7 @@
   },
   {
     "name": "Balance Board",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "compound",
     "equipment": "other",
@@ -896,7 +920,7 @@
   },
   {
     "name": "Band Assisted Pull-Up",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "compound",
     "equipment": "other",
@@ -904,9 +928,11 @@
       "lats"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "forearms",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Choke the band around the center of the pullup bar. You can use different bands to provide varying levels of assistance.",
@@ -1003,10 +1029,10 @@
     "mechanic": "isolation",
     "equipment": "bands",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
-      "middle back",
+      "upper back",
       "traps"
     ],
     "instructions": [
@@ -1051,11 +1077,14 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "lower back",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "For this exercise you will need to get into a pushup position, but instead of having your hands of the floor, you will be grabbing on to an Olympic barbell (loaded with 5-10 lbs on each side) instead. This will be your starting position.",
@@ -1077,11 +1106,14 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "lower back",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Hold an Olympic barbell loaded with 5-10lbs on each side and kneel on the floor.",
@@ -1106,7 +1138,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -1187,7 +1219,7 @@
       "glutes",
       "hamstrings",
       "lats",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -1270,7 +1302,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -1349,7 +1381,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -1373,7 +1405,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "chest"
@@ -1426,12 +1458,12 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
       "biceps",
       "lats",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Stand up straight while holding a barbell using a wide (higher than shoulder width) and overhand (palms facing your body) grip.",
@@ -1454,13 +1486,16 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
       "lats",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Place a loaded barbell on the ground, near the end of a bench. Kneel with both legs on the bench, and take a medium to narrow grip on the barbell. This will be your starting position.",
@@ -1506,7 +1541,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "chest",
@@ -1560,7 +1595,7 @@
     ],
     "secondaryMuscles": [
       "forearms",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Stand up straight with your feet at shoulder width as you hold a barbell with both hands behind your back using a pronated grip (palms facing back). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for better grip. This will be your starting position.",
@@ -1582,7 +1617,7 @@
     "mechanic": "isolation",
     "equipment": "barbell",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
     "secondaryMuscles": [
       "lower back"
@@ -1751,7 +1786,7 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "chest",
@@ -1805,7 +1840,9 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Sit upright on the floor with your partner behind you.",
@@ -1831,7 +1868,8 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "instructions": [
       "For this exercise you will need to place a bench behind your back. With the bench perpendicular to your body, and while looking away from it, hold on to the bench on its edge with the hands fully extended, separated at shoulder width. The legs will be extended forward, bent at the waist and perpendicular to your torso. This will be your starting position.",
@@ -1887,7 +1925,7 @@
       "chest",
       "forearms",
       "lats",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Begin by lying on the bench, getting your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
@@ -1912,7 +1950,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -1943,7 +1981,7 @@
     "secondaryMuscles": [
       "chest",
       "lats",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Adjust the leader chain, shortening it to the desired length.Place the chains on the sleeves of the bar.",
@@ -1997,7 +2035,7 @@
     "secondaryMuscles": [
       "chest",
       "lats",
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -2025,7 +2063,7 @@
     ],
     "secondaryMuscles": [
       "lats",
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -2050,9 +2088,11 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Lay flat on the floor with your arms next to your sides.",
       "Now bend your knees at around a 75 degree angle and lift your feet off the floor by around 2 inches.",
@@ -2074,12 +2114,12 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
       "lats",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "Holding a barbell with a pronated grip (palms facing down), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
@@ -2101,7 +2141,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -2125,11 +2165,11 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [
       "lower back",
-      "middle back",
+      "upper back",
       "traps"
     ],
     "instructions": [
@@ -2153,7 +2193,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -2183,7 +2223,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -2211,12 +2251,12 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
       "lats",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "With a dumbbell in each hand (palms facing your torso), bend your knees slightly and bring your torso forward by bending at the waist; as you bend make sure to keep your back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
@@ -2238,7 +2278,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -2264,14 +2304,17 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "obliques"
     ],
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
       "triceps"
     ],
     "instructions": [
@@ -2288,9 +2331,9 @@
   },
   {
     "name": "Bicycling",
-    "force": null,
+    "force": "",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "quadriceps"
@@ -2312,9 +2355,9 @@
   },
   {
     "name": "Bicycling, Stationary",
-    "force": null,
+    "force": "",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -2348,7 +2391,7 @@
       "chest",
       "forearms",
       "lats",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Begin by lying on the bench, getting your head beyond the bar if possible. One to five boards, made out of 2x6's, can be screwed together and held in place by a training partner, bands, or just tucked under your shirt.",
@@ -2373,7 +2416,9 @@
       "triceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "forearms"
     ],
     "instructions": [
@@ -2423,8 +2468,11 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
+      "side delts",
       "triceps"
     ],
     "instructions": [
@@ -2448,7 +2496,7 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -2496,7 +2544,7 @@
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -2525,9 +2573,11 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Connect a standard handle to each arm of a cable machine, and position them in the most downward position.",
       "Grab a Bosu Ball and position it in front and center of the cable machine.",
@@ -2558,7 +2608,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Initiate the exercise by standing upright with a kettlebell in one hand.",
@@ -2578,9 +2628,11 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Begin by lying on your back on the ground. Your legs should be straight and your arms at your side. This will be your starting position.",
       "To perform the movement, tuck the knees toward your chest by flexing the hips and knees. Following this, extend your legs directly above you so that they are perpendicular to the ground. Rotate and elevate your pelvis to raise your glutes from the floor.",
@@ -2745,7 +2797,7 @@
     "name": "Brachialis-SMR",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "foam roll",
     "primaryMuscles": [
       "biceps"
@@ -2769,7 +2821,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -2796,7 +2848,8 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -2871,7 +2924,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -2897,7 +2950,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "To get yourself into the starting position, place the pulleys on a high position (above your head), select the resistance to be used and hold the pulleys in each hand.",
@@ -2920,9 +2973,11 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Kneel below a high pulley that contains a rope attachment.",
       "Grasp cable rope attachment and lower the rope until your hands are placed next to your face.",
@@ -3072,12 +3127,14 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
       "Sit next to a low pulley sideways (with legs stretched in front of you or crossed) and grasp the single hand cable attachment with the arm nearest to the cable. Tip: If you can adjust the pulley's height, you can use a flat bench to sit on instead.",
-      "Position the elbow against your side with the elbow bent at 90° and the arm pointing towards the pulley. This will be your starting position.",
+      "Position the elbow against your side with the elbow bent at 90Â° and the arm pointing towards the pulley. This will be your starting position.",
       "Pull the single hand cable attachment toward your body by internally rotating your shoulder until your forearm is across your abs. You will be creating an imaginary semi-circle. Tip: The forearm should be perpendicular to your torso at all times.",
       "Slowly go back to the initial position.",
       "Repeat for the recommended amount of repetitions and then repeat the movement with the next arm."
@@ -3120,7 +3177,9 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -3221,7 +3280,7 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -3244,9 +3303,11 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Connect an ankle strap attachment to a low pulley cable and position a mat on the floor in front of it.",
       "Sit down with your feet toward the pulley and attach the cable to your ankles.",
@@ -3293,11 +3354,11 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Sit in the same position on a low pulley row station as you would if you were doing seated cable rows for the back.",
@@ -3321,9 +3382,12 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Connect a standard handle attachment, and position the cable to a middle pulley position.",
       "Lie on a stability ball perpendicular to the cable and grab the handle with one hand. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.",
@@ -3347,9 +3411,11 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Seat on a flat bench with your back facing a high pulley.",
       "Grasp the cable rope attachment with both hands (with the palms of the hands facing each other) and place your hands securely over both shoulders. Tip: Allow the weight to hyperextend the lower back slightly. This will be your starting position.",
@@ -3371,10 +3437,10 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [
-      "middle back",
+      "upper back",
       "traps"
     ],
     "instructions": [
@@ -3400,7 +3466,7 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -3590,7 +3656,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "calves"
     ],
@@ -3612,7 +3678,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "calves"
     ],
@@ -3633,7 +3699,7 @@
     "name": "Calves-SMR",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "foam roll",
     "primaryMuscles": [
       "calves"
@@ -3686,7 +3752,7 @@
     "mechanic": "isolation",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "forearms"
@@ -3706,15 +3772,17 @@
   },
   {
     "name": "Carioca Quick Step",
-    "force": null,
+    "force": "",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "adductors"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "abductors",
       "calves",
       "glutes",
@@ -3737,13 +3805,13 @@
     "name": "Cat Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "lower back"
     ],
     "secondaryMuscles": [
-      "middle back",
+      "upper back",
       "traps"
     ],
     "instructions": [
@@ -3768,9 +3836,11 @@
       "lats"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Begin standing while facing a wall or a partner.",
@@ -3816,7 +3886,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -3861,7 +3931,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "lats"
     ],
@@ -3913,10 +3983,12 @@
     "name": "Chair Upper Body Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -3943,7 +4015,9 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Start off by standing with your legs together, holding a bodybar or a broomstick.",
@@ -3967,8 +4041,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -3993,8 +4069,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -4020,8 +4098,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -4046,8 +4126,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -4088,14 +4170,14 @@
     "name": "Child's Pose",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "lower back"
     ],
     "secondaryMuscles": [
       "glutes",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Get on your hands and knees, walk your hands in front of you.",
@@ -4121,7 +4203,7 @@
     "secondaryMuscles": [
       "biceps",
       "forearms",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Grab the pull-up bar with the palms facing your torso and a grip closer than the shoulder width.",
@@ -4141,8 +4223,8 @@
     "name": "Chin To Chest Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "neck"
     ],
@@ -4167,7 +4249,7 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "forearms",
@@ -4205,7 +4287,9 @@
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -4236,7 +4320,7 @@
       "forearms",
       "glutes",
       "lower back",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -4291,7 +4375,9 @@
     ],
     "secondaryMuscles": [
       "forearms",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
@@ -4311,10 +4397,12 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "glutes",
       "hamstrings",
       "lower back",
@@ -4346,17 +4434,21 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "calves",
       "glutes",
       "hamstrings",
       "lower back",
-      "middle back",
+      "upper back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -4389,7 +4481,9 @@
       "calves",
       "glutes",
       "hamstrings",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -4415,7 +4509,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -4444,7 +4538,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lie back on a flat bench. Using a close grip (around shoulder width), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
@@ -4471,7 +4565,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Place a dumbbell standing up on a flat bench.",
@@ -4524,7 +4618,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lie on a flat bench with an EZ bar loaded to an appropriate weight.",
@@ -4577,8 +4671,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
@@ -4605,9 +4699,11 @@
       "triceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lie on the floor and place your hands on an upright dumbbell. Supporting your weight on your toes and hands, keep your torso rigid and your elbows in with your arms straight. This will be your starting position.",
@@ -4655,7 +4751,8 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -4672,7 +4769,7 @@
   },
   {
     "name": "Conan's Wheel",
-    "force": null,
+    "force": "",
     "level": "intermediate",
     "mechanic": "compound",
     "equipment": "other",
@@ -4680,12 +4777,16 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "biceps",
       "calves",
       "forearms",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -4732,9 +4833,11 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie flat on your back and bend your knees about 60 degrees.",
       "Keep your feet flat on the floor and place your hands loosely behind your head. This will be your starting position.",
@@ -4785,7 +4888,9 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Secure an exercise band around a stationary post.",
@@ -4806,13 +4911,15 @@
     "name": "Crossover Reverse Lunge",
     "force": "pull",
     "level": "intermediate",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "lower back"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "abductors",
       "glutes",
       "hamstrings",
@@ -4837,7 +4944,7 @@
     "mechanic": "isolation",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [
       "forearms"
@@ -4860,9 +4967,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie on the floor with your back flat and knees bent with around a 60-degree angle between the hamstrings and the calves.",
       "Keep your feet flat on the floor and stretch your arms overhead with your palms crossed. This will be your starting position.",
@@ -4884,9 +4993,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",
       "Place your feet three to four inches apart and point your toes inward so they touch.",
@@ -4910,9 +5021,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie flat on your back with your feet flat on the ground, or resting on a bench with your knees bent at a 90 degree angle. If you are resting your feet on a bench, place them three to four inches apart and point your toes inward so they touch.",
       "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.",
@@ -4935,7 +5048,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "traps"
@@ -4958,8 +5071,8 @@
     "name": "Dancer's Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "lower back"
     ],
@@ -4987,7 +5100,8 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -5019,7 +5133,7 @@
       "forearms",
       "glutes",
       "hamstrings",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -5048,7 +5162,7 @@
       "forearms",
       "glutes",
       "hamstrings",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -5075,7 +5189,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -5104,7 +5218,9 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
@@ -5129,9 +5245,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Secure your legs at the end of the decline bench and lie down.",
       "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.",
@@ -5157,7 +5275,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -5254,9 +5372,12 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
       "Raise your upper body off the bench until your torso is about 35-45 degrees if measured from the floor.",
@@ -5277,12 +5398,12 @@
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -5305,9 +5426,11 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie on your back on a decline bench and hold on to the top of the bench with both hands. Don't let your body slip down from this position.",
       "Hold your legs parallel to the floor using your abs to hold them there while keeping your knees and feet together. Tip: Your legs should be fully extended with a slight bend on the knee. This will be your starting position.",
@@ -5332,7 +5455,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -5362,7 +5485,7 @@
       "forearms",
       "glutes",
       "hamstrings",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -5418,7 +5541,8 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "instructions": [
       "Sit securely in a dip machine, select the weight and firmly grasp the handles.",
@@ -5444,7 +5568,8 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
+      "side delts",
       "triceps"
     ],
     "instructions": [
@@ -5471,7 +5596,8 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "instructions": [
       "To get into the starting position, hold your body at arm's length with your arms nearly locked above the bars.",
@@ -5547,7 +5673,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
@@ -5577,7 +5703,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
@@ -5603,7 +5729,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "glutes",
@@ -5626,15 +5752,19 @@
     "name": "Double Kettlebell Windmill",
     "force": "pull",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "obliques"
     ],
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -5689,7 +5819,9 @@
       "glutes"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "hamstrings"
     ],
     "instructions": [
@@ -5738,7 +5870,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -5789,7 +5921,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -5816,7 +5948,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -5872,7 +6004,9 @@
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -5900,7 +6034,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lay on the floor holding dumbbells in your hands. Your knees can be bent. Begin with the weights fully extended above you.",
@@ -5945,13 +6079,13 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
       "forearms",
       "lats",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "Using a neutral grip, lean into an incline bench.",
@@ -5973,7 +6107,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -6026,10 +6160,10 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "While holding a dumbbell in one hand, lay with your chest down on a slightly inclined (around 15 degrees when measured from the floor) adjustable bench. The other hand can be used to hold to the leg of the bench for stability.",
@@ -6077,7 +6211,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -6126,7 +6260,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -6178,7 +6312,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -6230,7 +6364,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
       "biceps"
@@ -6282,7 +6416,8 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "secondaryMuscles": [
       "traps"
@@ -6358,7 +6493,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -6408,7 +6543,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -6536,8 +6671,8 @@
     "name": "Dynamic Back Stretch",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "lats"
     ],
@@ -6557,13 +6692,13 @@
     "name": "Dynamic Chest Stretch",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "chest"
     ],
     "secondaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Stand with your hands together, arms extended directly in front of you. This will be your starting position.",
@@ -6630,9 +6765,11 @@
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
       "traps"
@@ -6656,9 +6793,12 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Lie on the floor, crossing your right leg across your bent left knee. Clasp your hands behind your head, beginning with your shoulder blades on the ground. This will be your starting position.",
       "Perform the motion by flexing the spine and rotating your torso to bring the left elbow to the right knee.",
@@ -6676,12 +6816,14 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Stand up straight.",
@@ -6731,7 +6873,7 @@
       "lats"
     ],
     "secondaryMuscles": [
-      "middle back",
+      "upper back",
       "traps"
     ],
     "instructions": [
@@ -6752,9 +6894,9 @@
   },
   {
     "name": "Elliptical Trainer",
-    "force": null,
+    "force": "",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -6782,9 +6924,11 @@
     "mechanic": "isolation",
     "equipment": "exercise ball",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie on an exercise ball with your lower back curvature pressed against the spherical surface of the ball. Your feet should be bent at the knee and pressed firmly against the floor. The upper torso should be hanging off the top of the ball. The arms should either be kept alongside the body or crossed on top of your chest as these positions avoid neck strains (as opposed to the hands behind the back of the head position).",
       "Lower your torso into a stretch position keeping the neck stationary at all times. This will be your starting position.",
@@ -6806,9 +6950,11 @@
     "mechanic": "compound",
     "equipment": "exercise ball",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Place an exercise ball nearby and lay on the floor in front of it with your hands on the floor shoulder width apart in a push-up position.",
       "Now place your lower shins on top of an exercise ball. Tip: At this point your legs should be fully extended with the shins on top of the ball and the upper body should be in a push-up type of position being supported by your two extended arms in front of you. This will be your starting position.",
@@ -6833,7 +6979,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -6854,7 +7000,9 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -6879,7 +7027,9 @@
     "mechanic": "compound",
     "equipment": "bands",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -6903,7 +7053,9 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -6926,10 +7078,10 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground."
@@ -6943,7 +7095,7 @@
   },
   {
     "name": "Farmer's Walk",
-    "force": null,
+    "force": "",
     "level": "intermediate",
     "mechanic": "compound",
     "equipment": "other",
@@ -6951,7 +7103,9 @@
       "forearms"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "glutes",
       "hamstrings",
       "lower back",
@@ -7054,9 +7208,11 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Lie on an exercise mat or a flat bench with your legs off the end.",
       "Place your hands either under your glutes with your palms down or by the sides holding on to the bench (or with palms down by the side on an exercise mat). Also extend your legs straight out. This will be your starting position.",
@@ -7078,9 +7234,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Lie with your back flat on a bench and your legs extended in front of you off the end.",
       "Place your hands either under your glutes with your palms down or by the sides holding on to the bench. This will be your starting position.",
@@ -7124,7 +7282,7 @@
     "force": "pull",
     "level": "intermediate",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -7156,7 +7314,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Adjust the j-hooks so they are at the appropriate height to rack the bar. Begin lying on the floor with your head near the end of a power rack. Keeping your shoulder blades pulled together; pull the bar off of the hooks.",
@@ -7181,7 +7339,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Adjust the j-hooks so they are at the appropriate height to rack the bar. For this exercise, drape the chains directly over the end of the bar, trying to keep the ends away from the plates.",
@@ -7226,7 +7384,7 @@
     "name": "Foot-SMR",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "calves"
@@ -7257,7 +7415,7 @@
       "glutes",
       "hamstrings",
       "quadriceps",
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -7281,7 +7439,9 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves",
       "glutes",
       "hamstrings"
@@ -7333,7 +7493,7 @@
     "force": "push",
     "level": "intermediate",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -7360,9 +7520,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie with your back flat on the floor (or exercise mat) and your legs extended in front of you.",
       "Now bend at the knees and place your outer thighs by the floor (or mat) as you make the soles of your feet touch each other.",
@@ -7473,7 +7635,7 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -7527,7 +7689,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -7550,7 +7712,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -7571,7 +7733,7 @@
     "name": "Front Leg Raises",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "hamstrings"
@@ -7595,7 +7757,7 @@
     "mechanic": "isolation",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -7622,7 +7784,7 @@
     ],
     "secondaryMuscles": [
       "lats",
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -7649,7 +7811,9 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "glutes",
       "hamstrings"
     ],
@@ -7698,7 +7862,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -7725,8 +7889,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Either standing or seated on a high bench, grasp two stirrup cables that are attached to the high pulleys. Grab with the opposing hand so your arms are crisscrossed about you and your palms are facing forward.",
@@ -7750,7 +7914,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Grasp the pull-up bar with a shoulder width underhand grip.",
@@ -7830,7 +7994,9 @@
       "calves",
       "glutes",
       "hamstrings",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Stand holding a light kettlebell by the horns close to your chest. This will be your starting position.",
@@ -7854,7 +8020,9 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "glutes",
       "lower back"
     ],
@@ -7880,7 +8048,9 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "glutes",
       "lower back"
     ],
@@ -7902,11 +8072,12 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
     "secondaryMuscles": [
       "biceps",
-      "lats"
+      "lats",
+      "lower abs"
     ],
     "instructions": [
       "Hang from a chin-up bar using an underhand grip (palms facing you) that is slightly wider than shoulder width.",
@@ -7927,7 +8098,7 @@
     "force": "static",
     "level": "intermediate",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "adductors"
     ],
@@ -8030,7 +8201,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -8076,7 +8247,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -8100,7 +8271,7 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -8134,7 +8305,9 @@
       "glutes",
       "hamstrings",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -8164,7 +8337,9 @@
       "glutes",
       "hamstrings",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -8190,13 +8365,17 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves",
       "forearms",
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -8222,13 +8401,17 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves",
       "forearms",
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -8254,7 +8437,9 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "glutes",
       "lower back"
     ],
@@ -8278,9 +8463,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Hang from a chin-up bar with both arms extended at arms length in top of you using either a wide grip or a medium grip. The legs should be straight down with the pelvis rolled slightly backwards. This will be your starting position.",
       "Raise your legs until the torso makes a 90-degree angle with the legs. Exhale as you perform this movement and hold the contraction for a second or so.",
@@ -8301,7 +8488,8 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -8328,11 +8516,15 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "forearms",
       "glutes",
       "hamstrings",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -8357,8 +8549,12 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -8523,8 +8719,8 @@
     "name": "Hug Knees To Chest",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "lower back"
     ],
@@ -8631,7 +8827,7 @@
     "name": "IT Band and Glute Stretch",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "abductors"
@@ -8672,7 +8868,7 @@
   },
   {
     "name": "Inchworm",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "compound",
     "equipment": "body only",
@@ -8728,11 +8924,11 @@
     "mechanic": "isolation",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "lats",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "Grab a dumbbell in each hand and lie face down on an incline bench that is set to an incline that is approximately 30 degrees.",
@@ -8760,7 +8956,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -8785,7 +8981,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "To get yourself into the starting position, set the pulleys at the floor level (lowest level possible on the machine that is below your torso).",
@@ -8812,7 +9008,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -8864,7 +9060,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Hold a dumbbell on each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
@@ -8891,7 +9087,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Hold a dumbbell in each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
@@ -8918,7 +9114,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -8961,7 +9157,7 @@
   },
   {
     "name": "Incline Inner Biceps Curl",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "isolation",
     "equipment": "dumbbell",
@@ -8993,7 +9189,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -9019,7 +9215,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
@@ -9045,7 +9241,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -9071,8 +9267,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -9099,8 +9297,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -9127,8 +9327,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -9189,12 +9391,14 @@
   },
   {
     "name": "Internal Rotation with Band",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "isolation",
     "equipment": "bands",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -9216,9 +9420,9 @@
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "lats"
@@ -9244,7 +9448,7 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -9270,7 +9474,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [
       "chest",
@@ -9293,7 +9497,7 @@
     "force": "pull",
     "level": "intermediate",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -9320,7 +9524,9 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -9395,8 +9601,12 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -9423,7 +9633,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Start the exercise the same way you would a close grip bench press. You will lie on a flat bench while holding a barbell at arms length (fully extended) with the elbows in. However, instead of having the arms perpendicular to the torso, make sure the bar is set in a direct line above the upper chest. This will be your starting position.",
@@ -9446,7 +9656,8 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -9469,7 +9680,8 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -9524,7 +9736,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "glutes",
@@ -9554,7 +9766,9 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves"
     ],
     "instructions": [
@@ -9570,9 +9784,9 @@
   },
   {
     "name": "Jogging, Treadmill",
-    "force": null,
+    "force": "",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -9602,15 +9816,19 @@
       "lower back"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "biceps",
       "calves",
       "forearms",
       "glutes",
       "hamstrings",
-      "middle back",
+      "upper back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -9633,7 +9851,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -9682,14 +9900,18 @@
     "name": "Kettlebell Figure 8",
     "force": "pull",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "obliques"
     ],
     "secondaryMuscles": [
       "hamstrings",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Place one kettlebell between your legs and take a wider than shoulder width stance. Bend over by pushing your butt out and keeping your back flat.",
@@ -9715,7 +9937,9 @@
       "calves",
       "glutes",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -9762,12 +9986,16 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "obliques"
     ],
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Place one kettlebell between your legs and take a comfortable stance. Bend over by pushing your butt out and keeping your back flat.",
@@ -9787,10 +10015,12 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "olbiques"
     ],
     "instructions": [
       "With a wide stance, hold a kettlebell with both hands. Allow it to hang at waist level with your arms extended. This will be your starting position.",
@@ -9818,7 +10048,9 @@
       "calves",
       "glutes",
       "hamstrings",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Pick up a kettlebell with two hands and hold it by the horns. Hold one leg off of the floor and squat down on the other.",
@@ -9840,7 +10072,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -9864,7 +10096,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -9895,7 +10127,8 @@
       "glutes",
       "hamstrings",
       "quadriceps",
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "instructions": [
       "Place a kettlebell on the ground between your feet. Position your feet in a wide stance, and grasp the kettlebell with two hands. Set your hips back as far as possible, with your knees bent. Keep your chest and head up. This will be your starting position.",
@@ -9915,7 +10148,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "quadriceps",
@@ -9941,10 +10174,12 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "hamstrings",
       "quadriceps",
       "triceps"
@@ -9968,10 +10203,12 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "calves",
       "hamstrings",
       "quadriceps",
@@ -9996,12 +10233,15 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -10026,11 +10266,15 @@
       "lats"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "biceps",
       "forearms",
-      "middle back",
-      "shoulders",
+      "upper back",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -10052,8 +10296,8 @@
     "name": "Knee Across The Body",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "glutes"
     ],
@@ -10104,9 +10348,11 @@
     "mechanic": "isolation",
     "equipment": "other",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Position your body on the vertical leg raise bench so that your forearms are resting on the pads next to the torso and holding on to the handles. Your arms will be bent at a 90 degree angle.",
       "The torso should be straight with the lower back pressed against the pad of the machine and the legs extended pointing towards the floor. This will be your starting position.",
@@ -10153,13 +10399,17 @@
     "name": "Kneeling Arm Drill",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "olbiques"
     ],
     "instructions": [
       "This drill helps increase arm efficiency during the run. Begin kneeling, left foot in front, right knee down. Apply pressure through the front heel to keep your glutes and hamstrings activated.",
@@ -10181,9 +10431,12 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Connect a rope attachment to a high pulley cable and position a mat on the floor in front of it.",
       "Grab the rope with both hands and kneel approximately two feet back from the tower.",
@@ -10233,7 +10486,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "forearms"
     ],
@@ -10260,7 +10513,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Select the appropriate weight using a pulley that is above your head. Attach a rope to the cable and kneel a couple of feet away, holding the rope out in front of you with both arms extended. This will be your starting position.",
@@ -10279,7 +10532,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -10335,7 +10588,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Attach a single handle to a high pulley and make your weight selection.",
@@ -10360,7 +10613,9 @@
       "glutes"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "hamstrings",
       "lower back"
     ],
@@ -10383,12 +10638,14 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [
       "glutes",
       "lower back",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
@@ -10411,10 +10668,12 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "calves",
       "chest",
       "hamstrings",
@@ -10531,7 +10790,7 @@
     "mechanic": "isolation",
     "equipment": "bands",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -10578,7 +10837,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -10598,7 +10857,7 @@
     "force": "push",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -10699,9 +10958,11 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Lie on an exercise mat with your legs extended and your hands either palms facing down next to you or under your glutes. Tip: My preference is with the hands next to me. This will be your starting position.",
       "Bend your knees and pull your upper thighs into your midsection as you breathe out. Continue the motion until your knees are around chest level. Contract your abs as you execute this movement and hold for a second at the top. Tip: As you perform the motion, the lower legs (calves) should always remain parallel to the floor.",
@@ -10725,7 +10986,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -10775,7 +11036,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -10797,7 +11058,7 @@
     "mechanic": "compound",
     "equipment": "machine",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "lats"
@@ -10825,7 +11086,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -10851,7 +11112,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Load an appropriate weight onto the pins and adjust the seat height so that the handles are at chest level. Grasp the handles with either a neutral or pronated grip. This will be your starting position.",
@@ -10872,7 +11133,7 @@
     "mechanic": "compound",
     "equipment": "machine",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -10920,7 +11181,7 @@
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -10943,10 +11204,10 @@
   },
   {
     "name": "Linear Acceleration Wall Drill",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -11002,15 +11263,17 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "chest",
       "glutes",
       "hamstrings",
       "lower back",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps",
       "triceps"
@@ -11039,7 +11302,7 @@
     "secondaryMuscles": [
       "biceps",
       "forearms",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Attach a climbing rope to a high beam or cross member. Below it, ensure that the smith machine bar is locked in place with the safeties and cannot move. Alternatively, a secure box could also be utilized.",
@@ -11059,7 +11322,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -11085,7 +11348,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "To move into the starting position, place the pulleys at the low position, select the resistance to be used and grasp a handle in each hand.",
@@ -11132,11 +11395,11 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
+      "upper back",
       "traps"
     ],
     "instructions": [
@@ -11157,7 +11420,7 @@
     "name": "Lower Back-SMR",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "foam roll",
     "primaryMuscles": [
       "lower back"
@@ -11178,10 +11441,11 @@
     "name": "Lower Back Curl",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -11254,7 +11518,7 @@
     "name": "Lying Bent Leg Groin",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "adductors"
@@ -11304,7 +11568,7 @@
     "mechanic": "isolation",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -11402,7 +11666,7 @@
     "name": "Lying Crossover",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "abductors"
@@ -11432,7 +11696,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.",
@@ -11497,7 +11761,7 @@
     "name": "Lying Glute",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "glutes"
@@ -11522,7 +11786,7 @@
     "name": "Lying Hamstring",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "hamstrings"
@@ -11624,7 +11888,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -11643,9 +11907,9 @@
   },
   {
     "name": "Lying Prone Quadriceps",
-    "force": null,
+    "force": "",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "quadriceps"
@@ -11671,7 +11935,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -11719,7 +11983,7 @@
     "mechanic": "compound",
     "equipment": "machine",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -11774,7 +12038,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -11847,7 +12111,7 @@
     "mechanic": "compound",
     "equipment": "machine",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -11899,7 +12163,9 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -11923,10 +12189,14 @@
     "mechanic": "compound",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts",
+      "upper abs",
+      "lower abs"
     ],
     "instructions": [
       "For this exercise you will need a medicine ball and a partner. Stand back to back with your partner, spaced 2-3 feet apart. This will be your starting position.",
@@ -11948,10 +12218,14 @@
     "mechanic": "compound",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "hamstrings",
       "quadriceps"
     ],
@@ -11974,7 +12248,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -11995,12 +12269,14 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "lats",
       "lower back"
     ],
@@ -12022,7 +12298,7 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -12069,14 +12345,16 @@
     "force": "pull",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
     "secondaryMuscles": [
       "chest",
       "hamstrings",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Begin in a pushup position, with your weight supported by your hands and toes. Flexing the knee and hip, bring one leg until the knee is approximately under the hip. This will be your starting position.",
@@ -12091,10 +12369,10 @@
   },
   {
     "name": "Moving Claw Series",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -12127,7 +12405,9 @@
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -12152,11 +12432,15 @@
       "lats"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "biceps",
       "forearms",
-      "middle back",
-      "shoulders",
+      "upper back",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -12292,7 +12576,7 @@
     "name": "Neck-SMR",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "neck"
@@ -12319,7 +12603,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -12343,9 +12627,12 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put one hand beside your head and the other to the side against the floor.",
       "Make sure your feet are elevated and resting on a flat surface.",
@@ -12369,9 +12656,12 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.",
       "Place your left hand behind your head.",
@@ -12440,7 +12730,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -12463,12 +12753,12 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
       "lats",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "Choose a flat bench and place a dumbbell on each side of it.",
@@ -12518,7 +12808,7 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -12545,7 +12835,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -12575,7 +12865,9 @@
     "secondaryMuscles": [
       "glutes",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -12597,7 +12889,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -12646,7 +12938,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
@@ -12673,7 +12965,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -12697,7 +12989,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -12721,7 +13013,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
@@ -12747,7 +13039,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -12770,7 +13062,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
@@ -12799,7 +13091,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "glutes",
@@ -12828,7 +13120,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "hamstrings",
@@ -12860,7 +13152,9 @@
       "calves",
       "glutes",
       "lower back",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [],
     "category": "strength",
@@ -12877,7 +13171,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -12904,11 +13198,14 @@
     "mechanic": "compound",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "lats",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Start in a standing position with a staggered, athletic stance. Hold a medicine ball in one hand, on the same side as your back leg. This will be your starting position.",
@@ -12937,7 +13234,9 @@
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Place one kettlebell between your feet.",
@@ -12965,7 +13264,9 @@
       "calves",
       "glutes",
       "hamstrings",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Clean and press a kettlebell with one arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so. Press the weight overhead by extending through the elbow.This will be your starting position.",
@@ -12989,7 +13290,9 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves",
       "glutes",
       "hamstrings",
@@ -13018,7 +13321,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -13068,7 +13371,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "lats"
     ],
@@ -13091,7 +13394,7 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -13124,7 +13427,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -13178,7 +13481,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lie down on a flat surface with your back pressing against the floor or an exercise mat. Make sure your knees are bent.",
@@ -13207,7 +13510,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Select an appropriate weight and adjust the knee pad to help keep you down. Grasp the handle with a pronated grip. This will be your starting position.",
@@ -13277,13 +13580,15 @@
     "name": "One Half Locust",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "biceps",
       "chest"
     ],
@@ -13304,7 +13609,7 @@
     "name": "One Handed Hang",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "lats"
@@ -13327,7 +13632,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "glutes"
     ],
@@ -13391,7 +13696,9 @@
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Place one kettlebell between your feet. Clean the kettlebell by extending through the legs and hips as you raise the kettlebell towards your shoulders.",
@@ -13412,11 +13719,14 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -13461,7 +13771,7 @@
     "name": "Overhead Lat",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "lats"
@@ -13514,12 +13824,16 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves",
       "glutes",
       "hamstrings",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -13542,9 +13856,10 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "chest",
@@ -13567,7 +13882,7 @@
     "name": "Overhead Triceps",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "triceps"
@@ -13594,15 +13909,18 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
-      "Connect a standard handle to a tower, and—if possible—position the cable to shoulder height. If not, a low pulley will suffice.",
+      "Connect a standard handle to a tower, andâ€”if possibleâ€”position the cable to shoulder height. If not, a low pulley will suffice.",
       "With your side to the cable, grab the handle with both hands and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.",
       "With your feet positioned hip-width apart and knees slightly bent, hold the cable to the middle of your chest. This will be your starting position.",
       "Press the cable away from your chest, fully extending both arms. You core should be tight and engaged.",
@@ -13623,11 +13941,15 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "obliques"
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -13763,7 +14085,9 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Stand between a set of parallel bars. Place a hand on each bar, and then take a small jump to help you get into the starting position with your arms locked out.",
@@ -13783,7 +14107,7 @@
     "force": "static",
     "level": "intermediate",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "lower back"
     ],
@@ -13804,7 +14128,7 @@
     "name": "Peroneals-SMR",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "foam roll",
     "primaryMuscles": [
       "calves"
@@ -13825,7 +14149,7 @@
     "name": "Peroneals Stretch",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "calves"
@@ -13879,8 +14203,8 @@
       "chest",
       "forearms",
       "lats",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "front delts"
     ],
     "instructions": [
       "Pin presses remove the eccentric phase of the bench press, developing starting strength. They also allow you to train a desired range of motion.",
@@ -13925,7 +14249,8 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -13970,9 +14295,12 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Lie down on the floor or an exercise mat with your legs fully extended and your upper body upright. Grab the plate by its sides with both hands out in front of your abdominals with your arms slightly bent.",
       "Slowly cross your legs near your ankles and lift them up off the ground. Your knees should also be bent slightly. Note: Move your upper body back slightly to help keep you balanced turning this exercise. This is the starting position.",
@@ -14022,7 +14350,9 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves",
       "glutes",
       "hamstrings"
@@ -14051,7 +14381,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -14076,7 +14406,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -14098,7 +14428,7 @@
     "name": "Posterior Tibialis Stretch",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "calves"
@@ -14129,9 +14459,11 @@
       "forearms",
       "glutes",
       "lower back",
-      "middle back",
+      "upper back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -14204,11 +14536,15 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves",
       "glutes",
       "hamstrings",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -14232,7 +14568,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -14263,7 +14599,9 @@
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -14296,7 +14634,9 @@
       "glutes",
       "hamstrings",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -14329,7 +14669,9 @@
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -14401,11 +14743,14 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -14426,7 +14771,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -14457,7 +14802,9 @@
       "chest",
       "glutes",
       "quadriceps",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down.",
@@ -14506,7 +14853,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Grab the pull-up bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
@@ -14524,7 +14871,7 @@
   },
   {
     "name": "Push-Up Wide",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "compound",
     "equipment": "body only",
@@ -14532,8 +14879,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -14560,7 +14909,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms' length.",
@@ -14585,7 +14934,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -14612,7 +14961,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -14636,7 +14985,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "quadriceps",
@@ -14657,7 +15006,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
@@ -14686,8 +15035,10 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "abdominals",
-      "shoulders",
+      "upper abs",
+      "lower abs",
+      "obliques",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -14714,7 +15065,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -14740,7 +15091,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -14760,13 +15111,15 @@
     "name": "Pyramid",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "exercise ball",
     "primaryMuscles": [
       "lower back"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Start off by rolling your torso forward onto the ball so your hips rest on top of the ball and become the highest point of your body.",
@@ -14783,7 +15136,7 @@
     "name": "Quad Stretch",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "quadriceps"
@@ -14854,7 +15207,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "forearms",
@@ -14931,7 +15284,7 @@
     "name": "Rear Leg Raises",
     "force": "push",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "quadriceps"
@@ -14950,9 +15303,9 @@
   },
   {
     "name": "Recumbent Bike",
-    "force": null,
+    "force": "",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -14981,7 +15334,9 @@
     "mechanic": "compound",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
       "chest",
@@ -15014,8 +15369,8 @@
       "chest",
       "forearms",
       "lats",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "front delts"
     ],
     "instructions": [
       "Position a bench inside a power rack, with the bar set to the correct height. Begin by anchoring bands either to band pegs or to the top of the rack. Ensure that you will be position properly under the bands. Attach the other end to the barbell.",
@@ -15237,9 +15592,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie down on the floor with your legs fully extended and arms to the side of your torso with the palms on the floor. Your arms should be stationary for the entire exercise.",
       "Move your legs up so that your thighs are perpendicular to the floor and feet are together and parallel to the floor. This is the starting position.",
@@ -15261,7 +15618,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -15286,7 +15643,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -15312,12 +15669,12 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
       "lats",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "Stand erect while holding a barbell with a supinated grip (palms facing up).",
@@ -15361,7 +15718,7 @@
     "name": "Reverse Hyperextension",
     "force": "pull",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "hamstrings"
@@ -15391,7 +15748,7 @@
     "mechanic": "isolation",
     "equipment": "machine",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -15444,7 +15801,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lie back on a flat bench. Using a close, supinated grip (around shoulder width), lift the bar from the rack and hold it straight over you with your arms locked extended in front of you and perpendicular to the floor. This will be your starting position.",
@@ -15464,10 +15821,10 @@
     "name": "Rhomboids-SMR",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "foam roll",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "traps"
@@ -15485,7 +15842,7 @@
   },
   {
     "name": "Rickshaw Carry",
-    "force": null,
+    "force": "",
     "level": "intermediate",
     "mechanic": "compound",
     "equipment": "other",
@@ -15493,7 +15850,9 @@
       "forearms"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "calves",
       "glutes",
       "hamstrings",
@@ -15551,7 +15910,8 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "instructions": [
       "Grip a ring in each hand, and then take a small jump to help you get into the starting position with your arms locked out.",
@@ -15629,8 +15989,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Grab the pull-up bar with the palms facing forward using a wide grip.",
@@ -15714,8 +16074,10 @@
     "secondaryMuscles": [
       "biceps",
       "forearms",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Grab the rope with both hands above your head. Pull down on the rope as you take a small jump.",
@@ -15738,9 +16100,11 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Kneel 1-2 feet in front of a cable system with a rope attached.",
       "After selecting an appropriate weight, grasp the rope with both hands reaching overhead. Your torso should be upright in the starting position.",
@@ -15757,9 +16121,9 @@
   },
   {
     "name": "Rope Jumping",
-    "force": null,
+    "force": "",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "quadriceps"
@@ -15806,10 +16170,12 @@
     "name": "Round The World Shoulder Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -15829,9 +16195,9 @@
   },
   {
     "name": "Rowing, Stationary",
-    "force": null,
+    "force": "",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -15842,7 +16208,7 @@
       "glutes",
       "hamstrings",
       "lower back",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "To begin, seat yourself on the rower. Make sure that your heels are resting comfortably against the base of the foot pedals and that the straps are secured. Select the program that you wish to use, if applicable. Sit up straight and bend forward at the hips.",
@@ -15860,8 +16226,8 @@
     "name": "Runner's Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -15882,9 +16248,9 @@
   },
   {
     "name": "Running, Treadmill",
-    "force": null,
+    "force": "",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -15912,10 +16278,12 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
     "secondaryMuscles": [
-      "lower back"
+      "lower back",
+      "upper abs",
+      "lower abs"
     ],
     "instructions": [
       "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
@@ -15941,15 +16309,19 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "biceps",
       "calves",
       "forearms",
       "glutes",
       "hamstrings",
       "lower back",
-      "middle back",
-      "shoulders",
+      "upper back",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -15970,13 +16342,13 @@
     "force": "pull",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "traps"
     ],
     "secondaryMuscles": [
       "lats",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Take a pronated grip on a pull-up bar.",
@@ -15997,9 +16369,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.",
       "With a slight bend at the knees, lift your legs up so that your heels are about 6 inches off the ground. This is the starting position.",
@@ -16070,7 +16444,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -16096,9 +16470,12 @@
     "mechanic": "isolation",
     "equipment": "barbell",
     "primaryMuscles": [
-      "abdominals"
+      "olbiques"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs",
+      "lower abs"
+    ],
     "instructions": [
       "Start out by sitting at the end of a flat bench with a barbell placed on top of your thighs. Your feet should be shoulder width apart from each other.",
       "Grip the bar with your palms facing down and make sure your hands are wider than shoulder width apart from each other. Begin to lift the barbell up over your head until your arms are fully extended.",
@@ -16147,7 +16524,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -16201,7 +16578,9 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
@@ -16222,12 +16601,12 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
       "lats",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
@@ -16250,7 +16629,7 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -16297,8 +16676,8 @@
     "name": "Seated Calf Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "calves"
     ],
@@ -16451,7 +16830,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -16478,9 +16857,11 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Sit on a bench with the legs stretched out in front of you slightly below parallel and your arms holding on to the sides of the bench. Your torso should be leaning backwards around a 45-degree angle from the bench. This will be your starting position.",
       "Bring the knees in toward you as you move your torso closer to them at the same time. Breathe out as you perform this movement.",
@@ -16498,8 +16879,8 @@
     "name": "Seated Floor Hamstring Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -16521,10 +16902,10 @@
     "name": "Seated Front Deltoid",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "chest"
@@ -16545,7 +16926,7 @@
     "name": "Seated Glute",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "glutes"
@@ -16594,8 +16975,8 @@
     "name": "Seated Hamstring",
     "force": "static",
     "level": "expert",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -16618,7 +16999,7 @@
     "name": "Seated Hamstring and Calf Stretch",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "hamstrings"
@@ -16693,9 +17074,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Sit on a bench with the legs stretched out in front of you slightly below parallel and your arms holding on to the sides of the bench. Your torso should be leaning backwards around a 45-degree angle from the bench. This will be your starting position.",
       "Bring the knees in toward you as you move your torso closer to them at the same time. Breathe out as you perform this movement.",
@@ -16766,7 +17149,7 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -16793,9 +17176,9 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -16866,7 +17249,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -16940,10 +17323,12 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "olbiques",
       "triceps"
     ],
     "instructions": [
@@ -16971,7 +17356,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Attach a single handle to a low cable.",
@@ -16990,10 +17375,12 @@
     "name": "Shoulder Circles",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
       "traps"
@@ -17016,7 +17403,7 @@
     "mechanic": "compound",
     "equipment": "bands",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -17037,10 +17424,10 @@
     "name": "Shoulder Raise",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "lats"
@@ -17059,10 +17446,12 @@
     "name": "Shoulder Stretch",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -17079,8 +17468,8 @@
     "name": "Side-Lying Floor Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "lats"
     ],
@@ -17100,13 +17489,15 @@
     "name": "Side Bridge",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [],
     "category": "strength",
@@ -17150,7 +17541,7 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [],
@@ -17168,7 +17559,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -17191,7 +17582,8 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "secondaryMuscles": [
       "traps"
@@ -17215,7 +17607,7 @@
     "name": "Side Leg Raises",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "body only",
     "primaryMuscles": [
       "adductors"
@@ -17238,7 +17630,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "adductors"
     ],
@@ -17262,7 +17654,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "neck"
     ],
@@ -17283,7 +17675,7 @@
     "force": "push",
     "level": "beginner",
     "mechanic": "compound",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -17316,8 +17708,10 @@
     "secondaryMuscles": [
       "biceps",
       "forearms",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Grab the pull-up bar with the palms facing forward using a wide grip.",
@@ -17340,9 +17734,11 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
       "forearms",
@@ -17417,7 +17813,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "chest",
@@ -17446,7 +17842,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -17466,7 +17862,7 @@
     "name": "Single-Cone Sprint Drill",
     "force": "push",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "quadriceps"
@@ -17621,12 +18017,12 @@
   },
   {
     "name": "Single Dumbbell Raise",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "forearms",
@@ -17727,7 +18123,8 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -17748,8 +18145,8 @@
     "name": "Sit Squats",
     "force": "push",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -17772,9 +18169,9 @@
   },
   {
     "name": "Skating",
-    "force": null,
+    "force": "",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "quadriceps"
@@ -17788,7 +18185,7 @@
     ],
     "instructions": [
       "Roller skating is a fun activity which can be effective in improving cardiorespiratory fitness and muscular endurance. It requires relatively good balance and coordination. It is necessary to learn the basics of skating including turning and stopping and to wear protective gear to avoid possible injury.",
-      "You can skate at a comfortable pace for 30 minutes straight. If you want a cardio challenge, do interval skating — speed skate two minutes of every five minutes, using the remaining three minutes to recover. A 150 lb person will typically burn about 175 calories in 30 minutes skating at a comfortable pace, similar to brisk walking."
+      "You can skate at a comfortable pace for 30 minutes straight. If you want a cardio challenge, do interval skating â€” speed skate two minutes of every five minutes, using the remaining three minutes to recover. A 150 lb person will typically burn about 175 calories in 30 minutes skating at a comfortable pace, similar to brisk walking."
     ],
     "category": "cardio",
     "images": [
@@ -17829,11 +18226,11 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
-      "middle back",
+      "upper back",
       "quadriceps"
     ],
     "instructions": [
@@ -17905,7 +18302,7 @@
     "mechanic": "isolation",
     "equipment": "other",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -17928,7 +18325,7 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -17954,14 +18351,18 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs",
+      "obliques"
     ],
     "secondaryMuscles": [
       "calves",
       "forearms",
       "lats",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "You will need a tire and a sledgehammer for this exercise. Stand in front of the tire about two feet away from it with a staggered stance. Grip the sledgehammer.",
@@ -17983,7 +18384,7 @@
     "mechanic": "isolation",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "chest"
@@ -18013,7 +18414,9 @@
       "traps"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "With the bar at thigh level, load an appropriate weight.",
@@ -18039,7 +18442,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -18063,12 +18466,12 @@
     "mechanic": "compound",
     "equipment": "machine",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
       "lats",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "Set the barbell attached to the smith machine to a height that is about 2 inches below your knees.",
@@ -18120,7 +18523,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Place a flat bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the flat bench. Using a close and pronated grip (palms facing forward) that is around shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
@@ -18138,7 +18541,7 @@
   },
   {
     "name": "Smith Machine Decline Press",
-    "force": null,
+    "force": "",
     "level": "beginner",
     "mechanic": "compound",
     "equipment": "machine",
@@ -18146,7 +18549,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -18176,7 +18579,9 @@
       "glutes",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -18201,9 +18606,11 @@
     "mechanic": "isolation",
     "equipment": "machine",
     "primaryMuscles": [
-      "abdominals"
+      "lower abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "upper abs"
+    ],
     "instructions": [
       "Position a bench in the rack and load the bar to an appropriate weight. Lie down on the bench, placing the bottom of your feet against the bar. Unlock the bar and extend your legs. You may need to use your hands to assist you. For added stability grasp the sides of the Smith Machine. This will be your starting position.",
       "Initiate the movement by rotating your pelvis, flexing your spine to raise your hips off of the bench. Maintain a slight bend in the knees throughout the motion.",
@@ -18227,7 +18634,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -18277,7 +18684,8 @@
     "mechanic": "compound",
     "equipment": "machine",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -18304,7 +18712,7 @@
     "mechanic": "compound",
     "equipment": "machine",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -18444,8 +18852,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "To begin, set the bar on the smith machine to a height that is around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grasp the bar using a pronated (palms forward) grip that is shoulder width apart. You may need some wrist wraps if using a significant amount of weight.",
@@ -18505,7 +18913,9 @@
       "glutes",
       "hamstrings",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -18538,7 +18948,9 @@
       "calves",
       "glutes",
       "hamstrings",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -18623,7 +19035,9 @@
     ],
     "secondaryMuscles": [
       "forearms",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Begin with a wide grip, with the bar hanging at the mid thigh position. You can use a hook or overhand grip. Your back should be straight and inclined slightly forward.",
@@ -18651,7 +19065,9 @@
       "glutes",
       "hamstrings",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -18757,11 +19173,14 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "glutes",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Hold a dumbbell in each hand with a pronated grip. Your feet should be wide with your hips and knees extended. This will be your starting position.",
@@ -18783,11 +19202,14 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -18833,9 +19255,9 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "lats",
@@ -18871,7 +19293,9 @@
       "glutes",
       "hamstrings",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps"
     ],
     "instructions": [
@@ -18901,7 +19325,9 @@
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -18961,7 +19387,9 @@
       "hamstrings",
       "lower back",
       "quadriceps",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -19010,8 +19438,8 @@
     "name": "Split Squats",
     "force": "push",
     "level": "intermediate",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -19044,7 +19472,9 @@
       "calves",
       "glutes",
       "hamstrings",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -19181,9 +19611,9 @@
   },
   {
     "name": "Stairmaster",
-    "force": null,
+    "force": "",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -19212,7 +19642,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -19262,7 +19692,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -19292,7 +19722,9 @@
       "triceps"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "With a dumbbell in one hand and the palm facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",
@@ -19366,7 +19798,9 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward.",
@@ -19386,7 +19820,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -19416,7 +19850,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -19439,10 +19873,13 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Connect a standard handle on a tower, and move the cable to the lowest pulley position.",
@@ -19468,10 +19905,12 @@
     "mechanic": "compound",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Connect a standard handle to a tower, and move the cable to the highest pulley position.",
@@ -19569,7 +20008,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -19618,7 +20057,7 @@
     "mechanic": "isolation",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -19670,7 +20109,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "Grasp a dumbbell in each hand with a pronated (palms forward) grip that is slightly less than shoulder width. The dumbbells should be resting on top of your thighs. Your arms should be extended with a slight bend at the elbows and your back should be straight. This will be your starting position.",
@@ -19689,7 +20128,7 @@
     "name": "Standing Elevated Quad Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "quadriceps"
@@ -19714,7 +20153,7 @@
     "mechanic": "isolation",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -19735,8 +20174,8 @@
     "name": "Standing Gastrocnemius Calf Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "calves"
     ],
@@ -19759,7 +20198,7 @@
     "name": "Standing Hamstring and Calf Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "other",
     "primaryMuscles": [
       "hamstrings"
@@ -19807,7 +20246,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -19853,10 +20292,11 @@
     "name": "Standing Lateral Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -19930,7 +20370,7 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "shoulders"
+      "side delts"
     ],
     "secondaryMuscles": [
       "forearms"
@@ -19961,7 +20401,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "rear delts"
     ],
     "instructions": [
       "Grab a single handle with your left arm next to the low pulley machine. Turn away from the machine keeping the handle to the side of your body with your arm fully extended. Now use both hands to elevate the single handle directly above the head with the palm facing forward. Keep your upper arm completely vertical (perpendicular to the floor) and put your right hand on your left elbow to help keep it steady. This is the starting position.",
@@ -19984,7 +20424,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -20090,7 +20530,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "To begin, stand up with a dumbbell held in one hand. Your feet should be about shoulder width apart from each other. Now fully extend the arm with the dumbbell over your head. Tip: The small finger of your hand should be facing the ceiling and the palm of your hand should be facing forward. The dumbbell should be above your head.",
@@ -20117,7 +20557,7 @@
       "triceps"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "To begin, stand up holding a barbell or e-z bar using a pronated grip (palms facing forward) with your hands closer than shoulder width apart from each other. Your feet should be about shoulder width apart.",
@@ -20140,7 +20580,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -20168,7 +20608,7 @@
     "mechanic": "compound",
     "equipment": "dumbbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -20216,7 +20656,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "lower back"
     ],
@@ -20242,9 +20682,11 @@
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Attach a rope to a high pulley and select an appropriate weight.",
       "Stand with your back to the cable tower. Take the rope with both hands over your shoulders, holding it to your upper chest. This will be your starting position.",
@@ -20263,7 +20705,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "calves"
     ],
@@ -20283,8 +20725,8 @@
     "name": "Standing Toe Touches",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -20332,7 +20774,7 @@
     "mechanic": "compound",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "chest",
@@ -20363,7 +20805,9 @@
       "calves",
       "glutes",
       "hamstrings",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
@@ -20404,9 +20848,9 @@
   },
   {
     "name": "Step Mill",
-    "force": null,
+    "force": "",
     "level": "intermediate",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -20516,7 +20960,8 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -20544,7 +20989,7 @@
     ],
     "secondaryMuscles": [
       "lats",
-      "shoulders",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -20593,7 +21038,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -20618,7 +21063,7 @@
     "mechanic": "isolation",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "traps"
@@ -20678,7 +21123,7 @@
       "forearms",
       "glutes",
       "lower back",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -20709,7 +21154,7 @@
       "forearms",
       "glutes",
       "lower back",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -20742,7 +21187,7 @@
       "forearms",
       "glutes",
       "lower back",
-      "middle back",
+      "upper back",
       "quadriceps",
       "traps"
     ],
@@ -20797,7 +21242,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.",
@@ -20819,12 +21264,15 @@
     "mechanic": "compound",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "chest",
       "lats",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Lay on the ground on your back with your knees bent. Hold the ball with one hand, extending the arm fully behind your head. This will be your starting position.",
@@ -20845,12 +21293,15 @@
     "mechanic": "compound",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "chest",
       "lats",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Lay on the ground on your back with your knees bent.",
@@ -20872,12 +21323,15 @@
     "mechanic": "isolation",
     "equipment": "other",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [
       "chest",
       "lower back",
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Adjust the straps so the handles are at an appropriate height, below waist level.",
@@ -20903,7 +21357,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -20926,9 +21380,11 @@
     "mechanic": "isolation",
     "equipment": "other",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Secure a set of suspension straps with the handles hanging about a foot off of the ground. Move yourself into a pushup plank position facing away from the rack.",
       "Place your feet into the handles. You should maintain a straight posture, not allowing the hips to sag. This will be your starting position.",
@@ -20949,7 +21405,7 @@
     "mechanic": "compound",
     "equipment": "other",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -21007,7 +21463,7 @@
     ],
     "secondaryMuscles": [
       "forearms",
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -21030,7 +21486,7 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -21061,7 +21517,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Lie down on a flat bench with a dumbbell in each hand on top of your thighs. The palms of your hand will be facing each other.",
@@ -21081,8 +21537,8 @@
     "name": "The Straddle",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -21168,7 +21624,9 @@
       "glutes",
       "hamstrings",
       "lower back",
-      "shoulders",
+      "front delts",
+      "side delts",
+      "rear delts",
       "traps",
       "triceps"
     ],
@@ -21191,7 +21649,7 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -21213,10 +21671,10 @@
     "name": "Torso Rotation",
     "force": "pull",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "exercise ball",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -21232,10 +21690,10 @@
   },
   {
     "name": "Trail Running/Walking",
-    "force": null,
+    "force": "",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "quadriceps"
     ],
@@ -21308,13 +21766,15 @@
     "name": "Tricep Side Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "triceps"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "Bring right arm across your body and over your left shoulder, holding your elbow with your left hand, until you feel a stretch in your tricep. Then repeat for your other arm."
@@ -21426,7 +21886,7 @@
     "force": "static",
     "level": "beginner",
     "mechanic": "isolation",
-    "equipment": null,
+    "equipment": "",
     "primaryMuscles": [
       "triceps"
     ],
@@ -21450,9 +21910,11 @@
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
       "Your legs should be crossed by wrapping one ankle around the other. Slowly elevate your legs up in the air until your thighs are perpendicular to the floor with a slight bend at the knees. Note: Your knees and toes should be parallel to the floor as opposed to the thighs.",
@@ -21498,7 +21960,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
@@ -21526,7 +21988,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "calves",
@@ -21550,7 +22012,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "shoulders"
+      "front delts"
     ],
     "secondaryMuscles": [
       "triceps"
@@ -21573,7 +22035,7 @@
     "mechanic": "compound",
     "equipment": "kettlebells",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
       "biceps",
@@ -21601,8 +22063,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Sit down on a pull-down machine with a wide bar attached to the top pulley. Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
@@ -21623,14 +22085,14 @@
     "name": "Upper Back-Leg Grab",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
     "secondaryMuscles": [
       "lower back",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "While seated, bend forward to hug your thighs from underneath with both arms.",
@@ -21647,13 +22109,13 @@
     "name": "Upper Back Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "secondaryMuscles": [
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Clasp fingers together with your thumbs pointing down, round your shoulders as you reach your hands forward."
@@ -21672,7 +22134,8 @@
     "mechanic": "compound",
     "equipment": "barbell",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "secondaryMuscles": [
       "traps"
@@ -21700,7 +22163,8 @@
       "traps"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "instructions": [
       "Grasp a straight bar cable attachment that is attached to a low pulley with a pronated (palms facing your thighs) grip that is slightly less than shoulder width. The bar should be resting on top of your thighs. Your arms should be extended with a slight bend at the elbows and your back should be straight. This will be your starting position.",
@@ -21725,7 +22189,8 @@
       "traps"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts"
     ],
     "instructions": [
       "To begin, stand on an exercise band so that tension begins at arm's length. Grasp the handles using a pronated (palms facing your thighs) grip that is slightly less than shoulder width. The handles should be resting on top of your thighs. Your arms should be extended with a slight bend at the elbows and your back should be straight. This will be your starting position.",
@@ -21744,10 +22209,12 @@
     "name": "Upward Stretch",
     "force": "static",
     "level": "beginner",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "secondaryMuscles": [
       "chest",
@@ -21775,8 +22242,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Sit down on a pull-down machine with a V-Bar attached to the top pulley.",
@@ -21804,8 +22271,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Start by placing the middle of the V-bar in the middle of the pull-up bar (assuming that the pull-up station you are using does not have neutral grip handles). The V-Bar handles will be facing down so that you can hang from the pull-up bar through the use of the handles.",
@@ -21833,7 +22300,7 @@
     "secondaryMuscles": [
       "glutes",
       "quadriceps",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "Allow the dumbbell to hang at arms length between your legs, holding it with both hands. Keep your back straight and your head up.",
@@ -21850,9 +22317,9 @@
   },
   {
     "name": "Walking, Treadmill",
-    "force": null,
+    "force": "",
     "level": "beginner",
-    "mechanic": null,
+    "mechanic": "",
     "equipment": "machine",
     "primaryMuscles": [
       "quadriceps"
@@ -21885,7 +22352,7 @@
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "To begin, lie down on an exercise ball with your torso pressing against the ball and parallel to the floor. The ball of your feet should be pressed against the floor to help keep you balanced. Place a weighted plate under your chin or behind your neck. This is the starting position.",
@@ -21907,7 +22374,7 @@
     "mechanic": "isolation",
     "equipment": "exercise ball",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -21937,7 +22404,7 @@
     ],
     "secondaryMuscles": [
       "chest",
-      "shoulders"
+      "front delts"
     ],
     "instructions": [
       "For this exercise you will need to place a bench behind your back and another one in front of you. With the benches perpendicular to your body, hold on to one bench on its edge with the hands close to your body, separated at shoulder width. Your arms should be fully extended.",
@@ -21960,9 +22427,11 @@
     "mechanic": "isolation",
     "equipment": "medicine ball",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "lower abs"
+    ],
     "instructions": [
       "Lie flat on your back with your feet flat on the ground or resting on a bench with your knees bent at a 90 degree angle.",
       "Hold a weight to your chest, or you may hold it extended above your torso. This will be your starting position.",
@@ -22016,7 +22485,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Attach a weight to a dip belt and secure it around your waist. Grab the pull-up bar with the palms of your hands facing forward. For a medium grip, your hands should be spaced at shoulder width. Both arms should be extended in front of you holding the bar at the chosen grip.",
@@ -22065,7 +22534,8 @@
     "mechanic": "isolation",
     "equipment": "other",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -22119,7 +22589,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -22145,7 +22615,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "front delts",
       "triceps"
     ],
     "instructions": [
@@ -22171,7 +22641,7 @@
       "chest"
     ],
     "secondaryMuscles": [
-      "shoulders",
+      "rear delts",
       "triceps"
     ],
     "instructions": [
@@ -22200,8 +22670,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
@@ -22229,8 +22699,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
@@ -22258,8 +22728,8 @@
     ],
     "secondaryMuscles": [
       "biceps",
-      "middle back",
-      "shoulders"
+      "upper back",
+      "rear delts"
     ],
     "instructions": [
       "Grab the pull-up bar with the palms facing forward using a wide grip.",
@@ -22361,7 +22831,8 @@
     "mechanic": "compound",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "upper abs",
+      "lower abs"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -22381,8 +22852,8 @@
     "name": "Windmills",
     "force": "pull",
     "level": "intermediate",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "abductors"
     ],
@@ -22407,8 +22878,8 @@
     "name": "World's Greatest Stretch",
     "force": "static",
     "level": "intermediate",
-    "mechanic": null,
-    "equipment": null,
+    "mechanic": "",
+    "equipment": "",
     "primaryMuscles": [
       "hamstrings"
     ],
@@ -22461,7 +22932,9 @@
       "forearms"
     ],
     "secondaryMuscles": [
-      "shoulders"
+      "front delts",
+      "side delts",
+      "rear delts"
     ],
     "instructions": [
       "To begin, stand straight up grabbing a wrist roller using a pronated grip (palms facing down). Your feet should be shoulder width apart.",
@@ -22501,7 +22974,7 @@
   },
   {
     "name": "Yoke Walk",
-    "force": null,
+    "force": "",
     "level": "intermediate",
     "mechanic": "compound",
     "equipment": "other",
@@ -22509,7 +22982,9 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
-      "abdominals",
+      "upper abs",
+      "lower abs",
+      "obliques",
       "abductors",
       "adductors",
       "calves",
@@ -22615,56 +23090,6 @@
     "id": "Zottman_Preacher_Curl"
   },
   {
-    "name": "Standing Cable Lateral Raise",
-    "force": "pull",
-    "level": "intermediate",
-    "mechanic": "isolation",
-    "equipment": "cable",
-    "primaryMuscles": [
-      "shoulders"
-    ],
-    "secondaryMuscles": [
-      "traps",
-      "forearms"
-    ],
-    "instructions": [
-      "Attach a single-handle to the low pulley cable machine and position it to your left side.",
-      "Stand with your side facing the cable machine and grasp the handle with your right hand, palm facing down, and your left hand resting on your hip.",
-      "Keep a slight bend in your elbow and maintain a neutral spine.",
-      "Exhale as you lift the handle directly to the side, keeping your arm straight but not locked.",
-      "Continue raising the handle until your arm is parallel to the ground or slightly below, ensuring your shoulder is doing the work.",
-      "Pause briefly at the top of the movement, then inhale as you lower the handle back to the starting position in a controlled manner.",
-      "Repeat for the desired number of repetitions, then switch sides and perform the exercise with your left arm."
-    ],
-    "category": "strength",
-    "images": [],
-    "id": "Standing_Cable_Lateral_Raise"
-  },
-  {
-    "name": "Dumbbell Strict Curl",
-    "force": "pull",
-    "level": "intermediate",
-    "mechanic": "isolation",
-    "equipment": "dumbbell",
-    "primaryMuscles": [
-      "biceps"
-    ],
-    "secondaryMuscles": [
-      "forearms"
-    ],
-    "instructions": [
-      "Stand upright with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing forward and arms fully extended down by your sides.",
-      "Keep your elbows close to your body throughout the exercise.",
-      "While exhaling, slowly curl the dumbbells up towards your shoulders, keeping your upper arms stationary.",
-      "Continue curling the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.",
-      "Pause briefly at the top of the movement, then inhale as you lower the dumbbells back down to the starting position in a controlled manner.",
-      "Repeat for the desired number of repetitions."
-    ],
-    "category": "strength",
-    "images": [],
-    "id": "Dumbbell_Strict_Curl"
-  },
-  {
     "name": "Single Leg Dumbbell Calf Raise",
     "force": "push",
     "level": "intermediate",
@@ -22709,18 +23134,17 @@
     "id": "Cable_Tricep_Kickbacks"
   },
   {
-    "id": "Rear_Delt_Fly",
     "name": "Rear Delt Fly",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "isolation",
     "equipment": "machine",
     "primaryMuscles": [
-      "shoulders"
+      "rear delts"
     ],
     "secondaryMuscles": [
       "traps",
-      "middle back"
+      "upper back"
     ],
     "instructions": [
       "Adjust the seat height of the machine so that the handles are at shoulder height.",
@@ -22732,20 +23156,21 @@
       "Repeat for the desired number of repetitions."
     ],
     "category": "strength",
-    "images": []
+    "images": [],
+    "id": "Rear_Delt_Fly"
   },
   {
-    "id": "Hanging_Leg_Spirals",
     "name": "Hanging Leg Spirals",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "isolation",
     "equipment": "body only",
     "primaryMuscles": [
-      "abdominals"
+      "obliques"
     ],
     "secondaryMuscles": [
-      "hip flexors"
+      "upper abs",
+      "lower abs"
     ],
     "instructions": [
       "Hang from a pull-up bar with your arms fully extended and your legs straight.",
@@ -22756,21 +23181,22 @@
       "Repeat for the desired number of repetitions."
     ],
     "category": "strength",
-    "images": []
+    "images": [],
+    "id": "Hanging_Leg_Spirals"
   },
   {
-    "id": "Cable_Wrap_Around_Row",
     "name": "Cable Wrap Around Row",
     "force": "pull",
     "level": "intermediate",
     "mechanic": "isolation",
     "equipment": "cable",
     "primaryMuscles": [
-      "middle back"
+      "traps"
     ],
     "secondaryMuscles": [
+      "upper back",
       "lats",
-      "shoulders",
+      "rear delts",
       "biceps"
     ],
     "instructions": [
@@ -22782,10 +23208,10 @@
       "Repeat for the desired number of repetitions."
     ],
     "category": "strength",
-    "images": []
+    "images": [],
+    "id": "Cable_Wrap_Around_Row"
   },
   {
-    "id": "Nordic_Curls",
     "name": "Nordic Curls",
     "force": "pull",
     "level": "intermediate",
@@ -22806,6 +23232,7 @@
       "Repeat for the desired number of repetitions."
     ],
     "category": "strength",
-    "images": []
+    "images": [],
+    "id": "Nordic_Curls"
   }
 ]

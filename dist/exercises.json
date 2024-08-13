@@ -23234,5 +23234,31 @@
     "category": "strength",
     "images": [],
     "id": "Nordic_Curls"
+  },
+  {
+    "name": "Standing Cable Lateral Raise",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "side delts"
+    ],
+    "secondaryMuscles": [
+      "traps",
+      "forearms"
+    ],
+    "instructions": [
+      "Attach a single-handle to the low pulley cable machine and position it to your left side.",
+      "Stand with your side facing the cable machine and grasp the handle with your right hand, palm facing down, and your left hand resting on your hip.",
+      "Keep a slight bend in your elbow and maintain a neutral spine.",
+      "Exhale as you lift the handle directly to the side, keeping your arm straight but not locked.",
+      "Continue raising the handle until your arm is parallel to the ground or slightly below, ensuring your shoulder is doing the work.",
+      "Pause briefly at the top of the movement, then inhale as you lower the handle back to the starting position in a controlled manner.",
+      "Repeat for the desired number of repetitions, then switch sides and perform the exercise with your left arm."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Standing_Cable_Lateral_Raise"
   }
 ]

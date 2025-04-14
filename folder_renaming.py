@@ -44,41 +44,85 @@ class ExerciseEditor(tk.Tk):
         super().__init__()
         self.title("Exercise Editor")
         self.df = pd.read_excel(EXCEL_FILE)
+        self.exercise_names = list(self.df['name'])
         self.current_index = 0
         self.fields = {}
+        self.selected_exercise = tk.StringVar()
         self.build_ui()
         self.load_exercise()
         self.bind_shortcuts()
 
     def build_ui(self):
+        self.geometry("1920x1080")
+
+        # Layout frames
+        left_frame = tk.Frame(self)
+        left_frame.pack(side="left", fill="y", padx=20, pady=20)
+
+        right_frame = tk.Frame(self)
+        right_frame.pack(side="right", fill="both", expand=True, padx=20, pady=20)
+
+        # Image panels on the left
+        self.image_panel_0 = tk.Label(left_frame)
+        self.image_panel_0.pack(side="left", padx=10)
+
+        self.image_panel_1 = tk.Label(left_frame)
+        self.image_panel_1.pack(side="left", padx=10)
+
+        # Top bar on the right for dropdown and index
+        top_bar = tk.Frame(right_frame)
+        top_bar.pack(fill="x", pady=(0, 10))
+
+        self.dropdown = ttk.Combobox(top_bar, textvariable=self.selected_exercise, values=self.exercise_names, state="readonly", width=50)
+        self.dropdown.pack(side="left", padx=(0, 10))
+        self.dropdown.bind("<<ComboboxSelected>>", self.on_exercise_selected)
+
+        self.index_label = tk.Label(top_bar, text="", font=("Arial", 12))
+        self.index_label.pack(side="left")
+
+        # Name entry on top of right side
         self.name_var = tk.StringVar()
-        name_entry = tk.Entry(self, textvariable=self.name_var, font=("Arial", 14))
-        name_entry.grid(row=0, column=0, columnspan=3, sticky="ew", padx=10, pady=5)
+        name_entry = tk.Entry(right_frame, textvariable=self.name_var, font=("Arial", 18))
+        name_entry.pack(pady=(0, 10), fill="x")
         self.fields['name'] = name_entry
 
-        self.image_panel_0 = tk.Label(self)
-        self.image_panel_0.grid(row=1, column=0, padx=10, pady=10)
-        self.image_panel_1 = tk.Label(self)
-        self.image_panel_1.grid(row=1, column=1, padx=10, pady=10)
-        self.diagram_panel = tk.Label(self)
-        self.diagram_panel.grid(row=2, column=0, columnspan=2)
-
+        # All fields stacked vertically
         params = ['force', 'level', 'mechanic', 'equipment', 'primaryMuscles',
                   'secondaryMuscles', 'instructions', 'category', 'laterality', 'alt_name']
-        for i, param in enumerate(params):
-            label = tk.Label(self, text=param)
-            label.grid(row=i+3, column=0, sticky="e", padx=5)
-            entry = tk.Entry(self, width=50)
-            entry.grid(row=i+3, column=1, padx=5, pady=2, sticky="w")
+        for param in params:
+            field_frame = tk.Frame(right_frame)
+            field_frame.pack(fill="x", pady=4)
+
+            label = tk.Label(field_frame, text=param, width=20, anchor="e")
+            label.pack(side="left")
+
+            entry = tk.Entry(field_frame, width=50)
+            entry.pack(side="left", fill="x", expand=True)
             self.fields[param] = entry
 
-        self.submit_btn = tk.Button(self, text="Submit Changes (Ctrl+S)", command=self.submit_changes)
-        self.submit_btn.grid(row=14, column=0, columnspan=2, pady=10)
+        # Muscle diagram image
+        self.diagram_panel = tk.Label(right_frame)
+        self.diagram_panel.pack(pady=10)
 
-        nav_frame = tk.Frame(self)
-        nav_frame.grid(row=15, column=0, columnspan=2, pady=10)
+        # Submit button
+        self.submit_btn = tk.Button(right_frame, text="Submit Changes (Ctrl+S)", command=self.submit_changes)
+        self.submit_btn.pack(pady=10)
+
+        # Navigation buttons
+        nav_frame = tk.Frame(right_frame)
+        nav_frame.pack(pady=10)
+
         tk.Button(nav_frame, text="Previous (Shift+Left)", command=self.prev_exercise).pack(side="left", padx=5)
         tk.Button(nav_frame, text="Next (Shift+Right)", command=self.next_exercise).pack(side="left", padx=5)
+
+    def on_exercise_selected(self, event=None):
+        selected_name = self.selected_exercise.get()
+        try:
+            index = self.exercise_names.index(selected_name)
+            self.current_index = index
+            self.load_exercise()
+        except ValueError:
+            messagebox.showerror("Error", f"Exercise '{selected_name}' not found.")
 
     def load_exercise(self):
         row = self.df.iloc[self.current_index]
@@ -103,6 +147,10 @@ class ExerciseEditor(tk.Tk):
             self.diagram_panel.image = diagram
         else:
             self.diagram_panel.config(image='')
+
+        # Update dropdown and index label
+        self.selected_exercise.set(row['name'])
+        self.index_label.config(text=f"{self.current_index + 1} / {len(self.df)}")
 
     def load_image(self, path):
         if os.path.exists(path):
@@ -132,6 +180,8 @@ class ExerciseEditor(tk.Tk):
         self.df.to_excel(EXCEL_FILE, index=False)
         if not auto:
             messagebox.showinfo("Saved", "Changes submitted successfully.")
+        self.exercise_names = list(self.df['name'])
+        self.dropdown['values'] = self.exercise_names
         self.load_exercise()
 
     def prev_exercise(self):

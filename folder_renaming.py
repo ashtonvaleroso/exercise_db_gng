@@ -88,7 +88,7 @@ class ExerciseEditor(tk.Tk):
 
         # All fields stacked vertically
         params = ['force', 'level', 'mechanic', 'equipment', 'primaryMuscles',
-                  'secondaryMuscles', 'instructions', 'category', 'laterality', 'alt_name']
+                  'secondaryMuscles', 'instructions', 'category', 'volume_multiplier', 'alt_name']
         for param in params:
             field_frame = tk.Frame(right_frame)
             field_frame.pack(fill="x", pady=4)
